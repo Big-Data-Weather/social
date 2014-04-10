@@ -1,6 +1,6 @@
 # Week 2 team social event
 
-Team Name (TBA)
+Quotaero
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
