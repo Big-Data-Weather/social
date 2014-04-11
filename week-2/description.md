@@ -5,4 +5,5 @@ Quotaero
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
 (50–100-word) description of what you did
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+For our social event we went to Chiptole in UTC after meeting with our client for the first time. We felt like this was an adequate social since the topics we talked about didn’t include anything related to the class. The main point was for us to just get to know each other and hang out outside of where we typically work. We feel like we’ll work well together for the remainder of the project.
+
